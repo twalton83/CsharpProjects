@@ -1,0 +1,14 @@
+/Users/Tatiana/Desktop/CODE/CsharpProjects/CallMethodsExamples/bin/Debug/net8.0/CallMethodsExamples
+/Users/Tatiana/Desktop/CODE/CsharpProjects/CallMethodsExamples/bin/Debug/net8.0/CallMethodsExamples.deps.json
+/Users/Tatiana/Desktop/CODE/CsharpProjects/CallMethodsExamples/bin/Debug/net8.0/CallMethodsExamples.runtimeconfig.json
+/Users/Tatiana/Desktop/CODE/CsharpProjects/CallMethodsExamples/bin/Debug/net8.0/CallMethodsExamples.dll
+/Users/Tatiana/Desktop/CODE/CsharpProjects/CallMethodsExamples/bin/Debug/net8.0/CallMethodsExamples.pdb
+/Users/Tatiana/Desktop/CODE/CsharpProjects/CallMethodsExamples/obj/Debug/net8.0/CallMethodsExamples.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Tatiana/Desktop/CODE/CsharpProjects/CallMethodsExamples/obj/Debug/net8.0/CallMethodsExamples.AssemblyInfoInputs.cache
+/Users/Tatiana/Desktop/CODE/CsharpProjects/CallMethodsExamples/obj/Debug/net8.0/CallMethodsExamples.AssemblyInfo.cs
+/Users/Tatiana/Desktop/CODE/CsharpProjects/CallMethodsExamples/obj/Debug/net8.0/CallMethodsExamples.csproj.CoreCompileInputs.cache
+/Users/Tatiana/Desktop/CODE/CsharpProjects/CallMethodsExamples/obj/Debug/net8.0/CallMethodsExamples.dll
+/Users/Tatiana/Desktop/CODE/CsharpProjects/CallMethodsExamples/obj/Debug/net8.0/refint/CallMethodsExamples.dll
+/Users/Tatiana/Desktop/CODE/CsharpProjects/CallMethodsExamples/obj/Debug/net8.0/CallMethodsExamples.pdb
+/Users/Tatiana/Desktop/CODE/CsharpProjects/CallMethodsExamples/obj/Debug/net8.0/CallMethodsExamples.genruntimeconfig.cache
+/Users/Tatiana/Desktop/CODE/CsharpProjects/CallMethodsExamples/obj/Debug/net8.0/ref/CallMethodsExamples.dll
