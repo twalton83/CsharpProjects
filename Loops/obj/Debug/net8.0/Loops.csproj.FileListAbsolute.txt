@@ -1,0 +1,15 @@
+/Users/Tatiana/Desktop/CODE/CsharpProjects/Loops/bin/Debug/net8.0/Loops
+/Users/Tatiana/Desktop/CODE/CsharpProjects/Loops/bin/Debug/net8.0/Loops.deps.json
+/Users/Tatiana/Desktop/CODE/CsharpProjects/Loops/bin/Debug/net8.0/Loops.runtimeconfig.json
+/Users/Tatiana/Desktop/CODE/CsharpProjects/Loops/bin/Debug/net8.0/Loops.dll
+/Users/Tatiana/Desktop/CODE/CsharpProjects/Loops/bin/Debug/net8.0/Loops.pdb
+/Users/Tatiana/Desktop/CODE/CsharpProjects/Loops/obj/Debug/net8.0/Loops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Tatiana/Desktop/CODE/CsharpProjects/Loops/obj/Debug/net8.0/Loops.AssemblyInfoInputs.cache
+/Users/Tatiana/Desktop/CODE/CsharpProjects/Loops/obj/Debug/net8.0/Loops.AssemblyInfo.cs
+/Users/Tatiana/Desktop/CODE/CsharpProjects/Loops/obj/Debug/net8.0/Loops.csproj.CoreCompileInputs.cache
+/Users/Tatiana/Desktop/CODE/CsharpProjects/Loops/obj/Debug/net8.0/Loops.sourcelink.json
+/Users/Tatiana/Desktop/CODE/CsharpProjects/Loops/obj/Debug/net8.0/Loops.dll
+/Users/Tatiana/Desktop/CODE/CsharpProjects/Loops/obj/Debug/net8.0/refint/Loops.dll
+/Users/Tatiana/Desktop/CODE/CsharpProjects/Loops/obj/Debug/net8.0/Loops.pdb
+/Users/Tatiana/Desktop/CODE/CsharpProjects/Loops/obj/Debug/net8.0/Loops.genruntimeconfig.cache
+/Users/Tatiana/Desktop/CODE/CsharpProjects/Loops/obj/Debug/net8.0/ref/Loops.dll

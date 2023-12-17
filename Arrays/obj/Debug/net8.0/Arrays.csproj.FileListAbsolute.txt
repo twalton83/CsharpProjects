@@ -1,0 +1,15 @@
+/Users/Tatiana/Desktop/CODE/CsharpProjects/Arrays/bin/Debug/net8.0/Arrays
+/Users/Tatiana/Desktop/CODE/CsharpProjects/Arrays/bin/Debug/net8.0/Arrays.deps.json
+/Users/Tatiana/Desktop/CODE/CsharpProjects/Arrays/bin/Debug/net8.0/Arrays.runtimeconfig.json
+/Users/Tatiana/Desktop/CODE/CsharpProjects/Arrays/bin/Debug/net8.0/Arrays.dll
+/Users/Tatiana/Desktop/CODE/CsharpProjects/Arrays/bin/Debug/net8.0/Arrays.pdb
+/Users/Tatiana/Desktop/CODE/CsharpProjects/Arrays/obj/Debug/net8.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Tatiana/Desktop/CODE/CsharpProjects/Arrays/obj/Debug/net8.0/Arrays.AssemblyInfoInputs.cache
+/Users/Tatiana/Desktop/CODE/CsharpProjects/Arrays/obj/Debug/net8.0/Arrays.AssemblyInfo.cs
+/Users/Tatiana/Desktop/CODE/CsharpProjects/Arrays/obj/Debug/net8.0/Arrays.csproj.CoreCompileInputs.cache
+/Users/Tatiana/Desktop/CODE/CsharpProjects/Arrays/obj/Debug/net8.0/Arrays.sourcelink.json
+/Users/Tatiana/Desktop/CODE/CsharpProjects/Arrays/obj/Debug/net8.0/Arrays.dll
+/Users/Tatiana/Desktop/CODE/CsharpProjects/Arrays/obj/Debug/net8.0/refint/Arrays.dll
+/Users/Tatiana/Desktop/CODE/CsharpProjects/Arrays/obj/Debug/net8.0/Arrays.pdb
+/Users/Tatiana/Desktop/CODE/CsharpProjects/Arrays/obj/Debug/net8.0/Arrays.genruntimeconfig.cache
+/Users/Tatiana/Desktop/CODE/CsharpProjects/Arrays/obj/Debug/net8.0/ref/Arrays.dll
